@@ -1,0 +1,12 @@
+E:\source\repos\ShopsRu\ShopRu.Entities\bin\Debug\net6.0\ShopRu.Entities.deps.json
+E:\source\repos\ShopsRu\ShopRu.Entities\bin\Debug\net6.0\ShopRu.Entities.dll
+E:\source\repos\ShopsRu\ShopRu.Entities\bin\Debug\net6.0\ShopRu.Entities.pdb
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.csproj.AssemblyReference.cache
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.AssemblyInfoInputs.cache
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.AssemblyInfo.cs
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.csproj.CoreCompileInputs.cache
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.dll
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\refint\ShopRu.Entities.dll
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ShopRu.Entities.pdb
+E:\source\repos\ShopsRu\ShopRu.Entities\obj\Debug\net6.0\ref\ShopRu.Entities.dll

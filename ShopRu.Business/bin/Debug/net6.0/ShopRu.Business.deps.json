@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopRu.Business/1.0.0": {
+        "dependencies": {
+          "ShopRu.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ShopRu.Business.dll": {}
+        }
+      },
+      "ShopRu.Entities/1.0.0": {
+        "runtime": {
+          "ShopRu.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopRu.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopRu.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

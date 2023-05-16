@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VNY2zZS5ve0g1PRLrb4RNznfQaNjJnRVqjP7swPxdXI=",
+  "Source": "ShopRu.WebAPI",
+  "BasePath": "_content/ShopRu.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
